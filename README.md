@@ -4,7 +4,7 @@ Driver Drowsiness Detection using SSDMobileNet and OpenCV
 I have trained two models using Tensorflow Object detection.
 The two models were trained on different datasets taken from the ROBOFLOW universe.
 
-> Open the files in Google Colab or click the links for enhanced code visualization.
+[!TIP] Open the files in Google Colab or click the links for enhanced code visualization.
 ### Active_Fatigue.ipynb (https://colab.research.google.com/github/ReetikRaj20/Driver_Drowsiness_Detection/blob/main/Active_Fatique.ipynb)) 
 This had the labels **active** and **fatigue**. The model achieved an overall accuracy(mAP @ 0.5:0.95) of 89.27%. 
 
