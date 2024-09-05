@@ -6,7 +6,7 @@ Two models were trained using TensorFlow Object Detection on distinct datasets s
 > [!TIP]
 >  Open the files in Google Colab or click the links for enhanced code visualization.
 
-[Active_Fatigue.ipynb](https://colab.research.google.com/github/ReetikRaj20/Driver_Drowsiness_Detection/blob/main/Active_Fatique.ipynb)) 
+[Active_Fatigue.ipynb](https://colab.research.google.com/github/ReetikRaj20/Driver_Drowsiness_Detection/blob/main/Active_Fatique.ipynb)
 This had the labels __active__ and __fatigue__. The model achieved an overall accuracy(mAP @ 0.5:0.95) of 89.27% on the testing dataset. 
 
 [Drowsiness_detection.ipynb](https://colab.research.google.com/github/ReetikRaj20/Driver_Drowsiness_Detection/blob/main/Drowsiness_detection.ipynb)
